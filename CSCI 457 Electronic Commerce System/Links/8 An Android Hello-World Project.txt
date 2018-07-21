@@ -1,0 +1,149 @@
+Slide 8.1
+https://developer.android.com/training/basics/firstapp/index.html            (Hello, World)
+https://developer.android.com/training/index.html                            (Getting Started)
+https://developer.android.com/index.html                                     (Android Developers)
+http://www.i-programmer.info/programming/android/5887-android-adventures-getting-started-with-android-studio.html (Getting Started with Android Studio)
+http://startandroid.ru/en/lessons/complete-list.html                         (Google Android Lessons)
+
+Slide 8.2
+https://developer.android.com/guide/topics/manifest/manifest-intro.html      (Manifest file)
+https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels  (API Level)
+
+Slide 8.3
+https://developer.android.com/guide/topics/manifest/manifest-element.html#nspace  (xmlns:android)
+https://developer.android.com/guide/topics/manifest/manifest-element.html#package (package)
+https://play.google.com/store?hl=en                                               (Google Play)
+https://developer.android.com/guide/topics/manifest/application-element.html      (application)
+https://developer.android.com/guide/topics/manifest/activity-element.html#icon    (icon)
+https://developer.android.com/guide/topics/manifest/activity-element.html#label   (label)
+
+Slide 8.4
+https://developer.android.com/guide/topics/manifest/activity-element.html#theme   (theme)
+https://developer.android.com/guide/topics/manifest/activity-element.html         (activity)
+https://developer.android.com/guide/topics/manifest/intent-filter-element.html    (intent-filter)
+https://developer.android.com/reference/android/content/Intent.html               (Intents)
+
+Slide 8.5
+https://developer.android.com/guide/topics/ui/declaring-layout.html               (here)
+https://developer.android.com/reference/android/widget/TextView.html              (TextView)
+https://developer.android.com/reference/android/widget/TextView.html#setText%28java.lang.CharSequence%29   (setText)
+https://developer.android.com/reference/android/app/Activity.html#setContentView%28android.view.View%29    (setContentView)
+
+Slide 8.8
+https://developer.android.com/reference/android/widget/LinearLayout.html          (LinearLayout)
+https://developer.android.com/reference/android/widget/LinearLayout.html#attr_android:orientation   (android:orientation)
+https://developer.android.com/reference/android/view/ViewGroup.LayoutParams.html#attr_android:layout_width  (android:layout_width)
+https://developer.android.com/reference/android/view/ViewGroup.LayoutParams.html#attr_android:layout_height (android:layout_height)
+https://developer.android.com/reference/android/widget/TextView.html              (TextView)
+
+Slide 8.9
+https://developer.android.com/guide/topics/ui/layout/linear.html                  (android:layout_weight)
+https://developer.android.com/reference/android/widget/LinearLayout.html#attr_android:weightSum (android:weightSum)
+https://developer.android.com/reference/android/widget/LinearLayout.html#attr_android:gravity   (android:gravity)
+https://developer.android.com/reference/android/widget/TextView.html#attr_android:textAppearance (android:textAppearance)
+
+Slide 8.10
+https://developer.android.com/reference/android/widget/EditText.html              (EditText)
+https://developer.android.com/reference/android/widget/TextView.html              (TextView)
+https://developer.android.com/reference/android/widget/Button.html                (Button)
+https://developer.android.com/reference/android/package-summary.html              (android)
+http://people.aero.und.edu/~wenchen/course/513/week9.12.html#strings              (res/values/strings.xml)
+https://developer.android.com/reference/android/view/View.html#findViewById%28int%29  (findViewById)
+
+Slide 8.11
+https://developer.android.com/reference/android/widget/LinearLayout.html           (LinearLayout)
+https://developer.android.com/reference/android/widget/TextView.html               (TextView)
+https://developer.android.com/reference/android/widget/EditText.html               (EditText)
+https://developer.android.com/reference/android/widget/Button.html                 (Button)
+
+Slide 8.13
+https://developer.android.com/guide/topics/ui/menus.html                           (Menus)
+https://developer.android.com/training/appbar/index.html                           (Action Bar)
+https://developer.android.com/guide/topics/resources/menu-resource.html            (android:orderInCategory)
+https://developer.android.com/guide/topics/resources/menu-resource.html            (app:showAsAction)
+
+Slide 8.14
+https://developer.android.com/reference/android/app/Activity.html                  (Activity)
+https://developer.android.com/reference/android/app/Activity.html#onCreate%28android.os.Bundle%29  (onCreate)
+
+Slide 8.15
+https://developer.android.com/reference/android/package-summary.html               (android)
+https://developer.android.com/reference/android/app/package-summary.html           (app)
+https://developer.android.com/reference/android/app/Activity.html                  (Activity)
+https://developer.android.com/reference/android/app/Activity.html#setContentView%28android.view.View%29 (setContentView(View))
+https://developer.android.com/reference/android/content/package-summary.html       (content)
+https://developer.android.com/reference/android/content/Intent.html                (Intent)
+https://developer.android.com/reference/android/content/Context.html#startActivity%28android.content.Intent%29  (StartActivity)
+https://developer.android.com/reference/android/app/Activity.html                   (Activity)
+https://developer.android.com/reference/android/os/package-summary.html             (os)
+https://developer.android.com/reference/android/os/Bundle.html                      (Bundle)
+https://developer.android.com/reference/java/lang/String.html                       (String)
+https://developer.android.com/reference/android/os/Parcelable.html                  (Parcelable)
+https://developer.android.com/reference/android/os/Parcel.html                      (Parcel)
+https://developer.android.com/reference/android/view/package-summary.html           (view)
+https://developer.android.com/reference/android/view/View.html                      (View)
+https://developer.android.com/reference/android/widget/package-summary.html         (Widget)
+https://developer.android.com/reference/android/widget/Button.html                  (Button)
+
+Slide 8.16
+https://developer.android.com/reference/android/widget/package-summary.html         (Widget) 
+https://developer.android.com/reference/android/widget/EditText.html                (EditText)
+https://developer.android.com/reference/android/widget/TextView.html                (TextView)
+https://developer.android.com/reference/android/support/v7/app/package-summary.html (support.v7.app)
+https://developer.android.com/reference/android/support/v7/app/AppCompatActivity.html (AppCompatActivity)
+https://developer.android.com/reference/android/package-summary.html                  (android)
+https://developer.android.com/reference/android/view/package-summary.html             (view)
+https://developer.android.com/reference/android/view/Menu.html                        (Menu)
+https://developer.android.com/reference/android/view/MenuItem.html                    (MenuItem)
+https://developer.android.com/reference/android/app/Activity.html                     (Activity)
+https://developer.android.com/reference/android/app/Activity.html#onCreate%28android.os.Bundle%29 (onCreate)
+https://developer.android.com/reference/android/app/Activity.html#onPause%28%29       (onPause)
+https://developer.android.com/reference/android/content/Context.html                  (Context)
+https://developer.android.com/reference/android/content/Context.html#startActivity%28android.content.Intent%29 (StartActivity)
+https://developer.android.com/reference/java/lang/Override.html                       (@Override)
+
+Slide 8.17
+https://developer.android.com/reference/android/app/Activity.html#onCreate%28android.os.Bundle%29 (onCreate)
+https://developer.android.com/reference/android/app/Activity.html#setContentView%28int%29 (setContentView)
+https://developer.android.com/reference/android/app/Activity.html#findViewById%28int%29   (findViewById)
+https://developer.android.com/reference/android/os/Bundle.html                            (Bundle)
+http://docs.oracle.com/javase/tutorial/java/IandI/super.html                              (super)
+
+Slide 8.18
+https://en.wikipedia.org/wiki/Final_%28Java%29                                            (final)
+https://developer.android.com/reference/android/widget/EditText.html                      (EditText)
+https://developer.android.com/reference/android/widget/TextView.html                      (TextView)
+https://developer.android.com/reference/android/view/View.html#findViewById%28int%29      (findViewById)
+https://developer.android.com/reference/android/view/View.html                            (View)
+https://developer.android.com/reference/android/view/View.html#setOnClickListener%28android.view.View.OnClickListener%29 (setOnClickListener)
+http://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html                    (new)
+https://developer.android.com/reference/android/view/View.OnClickListener.html            (View.OnClickListener)
+https://developer.android.com/reference/android/view/View.OnClickListener.html#onClick%28android.view.View%29  (onClick)
+
+Slide 8.19
+https://developer.android.com/reference/android/content/Intent.html#Intent%28android.content.Context,%20java.lang.Class%3C?%3E%29  (Intent)
+https://developer.android.com/reference/android/content/Context.html                      (Context)
+https://developer.android.com/reference/java/lang/Class.html                              (Class)
+https://developer.android.com/reference/android/content/Intent.html#putExtra%28java.lang.String,%20java.lang.String[]%29 (putExtra)
+https://developer.android.com/reference/android/widget/EditText.html#getText%28%29        (getText)
+https://developer.android.com/reference/java/lang/Object.html#toString%28%29              (toString)
+https://developer.android.com/reference/android/content/Context.html#startActivity%28android.content.Intent%29  (startActivity)
+https://developer.android.com/reference/android/app/Activity.html#onCreateOptionsMenu%28android.view.Menu%29  (onCreateOptionsMenu)
+https://developer.android.com/reference/android/app/Activity.html#getMenuInflater%28%29    (getMenuInflater)
+https://developer.android.com/reference/android/view/MenuInflater.html#inflate%28int,%20android.view.Menu%29  (inflate)
+https://developer.android.com/reference/android/app/Activity.html#onOptionsItemSelected%28android.view.MenuItem%29 (onOptionsItemSelected)
+https://developer.android.com/reference/android/view/MenuItem.html                         (MenuItem)
+https://developer.android.com/reference/android/view/MenuItem.html#getItemId%28%29         (getItemId)
+
+Slide 8.21
+https://developer.android.com/reference/android/package-summary.html                       (android)
+https://developer.android.com/reference/android/widget/package-summary.html                (Widget)
+https://developer.android.com/reference/android/widget/TextView.html                       (TextView)
+https://developer.android.com/reference/android/widget/EditText.html                       (EditText)
+https://developer.android.com/reference/android/view/View.html#findViewById%28int%29       (findViewById)
+https://developer.android.com/reference/android/view/View.html                             (View)
+https://developer.android.com/reference/android/content/Intent.html                        (Intent)
+https://developer.android.com/reference/android/content/Intent.html#getIntent%28java.lang.String%29 (getIntent)
+https://developer.android.com/reference/android/content/Context.html#startActivity%28android.content.Intent%29  (startActivity)
+https://developer.android.com/reference/android/content/Intent.html#getStringExtra%28java.lang.String%29 (getStringExtra)
+https://developer.android.com/reference/android/widget/TextView.html#setText%28java.lang.CharSequence,%20android.widget.TextView.BufferType%29 (setText)

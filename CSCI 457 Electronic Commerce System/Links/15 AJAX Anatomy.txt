@@ -1,0 +1,16 @@
+Slide 15.2
+http://wenchen.cs.und.edu/course/457/15/ajax_info.txt               (ajax_info.txt)
+
+Slide 15.3
+https://www.w3.org/TR/XMLHttpRequest/                               (XMLHttpRequest)
+https://www.w3schools.com/XML/xml_http.asp                          (XMLHttpRequest)
+
+Slide 15.4
+https://www.w3schools.com/dom/dom_http.asp                          (XMLHttpRequest)
+
+Slide 15.5
+http://wenchen.cs.und.edu/course/457/15/demo_get.txt                (demo_get.php)    
+http://wenchen.cs.und.edu/course/457/15/demo_post.txt               (demo_post.php)    
+
+Slide 15.7
+http://wenchen.cs.und.edu/course/457/15/7.html                      (cd_catalog.xml)

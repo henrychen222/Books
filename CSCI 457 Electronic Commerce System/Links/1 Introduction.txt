@@ -1,0 +1,26 @@
+Slide 1.5
+https://www.w3schools.com/css/default.asp    (CSS (Cascading Style Sheets))
+https://www.w3schools.com/xml/default.asp    (XML)
+https://www.w3schools.com/xml/xml_http.asp   (XMLHttpRequest)
+https://www.w3schools.com/js/default.asp     (JavaScipt)
+
+Slide 1.6
+http://www.appdemostore.com/demo?id=5967931154366464  (demo)
+
+Slide 1.11
+https://www.linux.org/                        (Linux Operating System)
+http://www.apache.org/                        (Apache Web Server)
+https://www.mysql.com/                        (MySQL Relational Database Management System (RDBMS))
+
+Slide 1.12
+https://www.perl.org/                         (Perl)
+http://php.net/                               (PHP)
+https://www.python.org/                       (Python)
+
+Slide 1.13
+https://www.microsoft.com/en-us/              (Microsoft)
+https://www.asp.net/                          (ASP.NET)
+https://www.microsoft.com/err/windowsserver/windowsserver2003/  ( Internet Information Services )
+https://www.oracle.com/index.html             (Oracle)
+http://www.oracle.com/technetwork/java/javaee/overview/index.html (Java Platform, Enterprise Edition (Java EE))
+http://www.zend.com/                          (Zend)

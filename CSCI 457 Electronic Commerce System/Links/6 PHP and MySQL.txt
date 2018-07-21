@@ -1,0 +1,19 @@
+Slide 6.1
+http://us2.php.net/manual/en/function.mysql-connect.php                    (mysql_connect)
+http://us2.php.net/manual/en/function.die.php                              (die)
+
+Slide 6.2
+http://us2.php.net/manual/en/function.mysql-query.php                      (mysql_query)
+http://us2.php.net/manual/en/function.mysql-select-db.php                  (mysql_select_db)
+https://dev.mysql.com/doc/refman/5.7/en/create-table.html                  (here1)
+https://dev.mysql.com/doc/refman/5.7/en/tutorial.html                      (here2)
+
+Slide 6.3
+https://dev.mysql.com/doc/refman/5.7/en/example-auto-increment.html        (AUTO_INCREMENT)
+
+Slide 6.4
+https://www.w3schools.com/php/func_string_strtok.asp                       (strtok)
+
+Slide 6.5
+http://us2.php.net/manual/en/function.mysql-query.php                      (mysql_query)
+http://us2.php.net/manual/en/function.mysql-fetch-array.php                (mysql_fetch_array)

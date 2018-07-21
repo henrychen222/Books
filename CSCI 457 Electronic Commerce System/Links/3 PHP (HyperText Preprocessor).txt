@@ -1,0 +1,78 @@
+Slide 3.1
+http://php.net/                                               (PHP)
+https://www.asp.net/                                          (ASP.NET)
+https://www.mysql.com/                                        (MYSQL)
+http://www.apache.com/www/                                    (Apache)
+http://php.net/                                               (www.php.net)
+
+Slide 3.2
+http://us2.php.net/manual/en/function.echo.php                (echo)
+http://us2.php.net/manual/en/function.print.php               (print)
+
+Slide 3.3
+http://us2.php.net/manual/en/language.operators.string.php    (string operators)
+
+Slide 3.4
+http://us2.php.net/manual/en/language.types.string.php        (String)
+http://us2.php.net/manual/en/function.strlen.php              (strlen)
+http://us2.php.net/manual/en/function.strpos.php              (strpos)
+
+Slide 3.6
+http://us2.php.net/manual/en/function.date.php                (date)
+
+Slide 3.7
+http://us.php.net/manual/en/function.filesize.php             (filesize)
+http://us.php.net/manual/en/function.trim.php                 (trim)
+http://us.php.net/manual/en/function.ltrim.php                (ltrim)
+http://us2.php.net/manual/en/function.date.php                (string date(string format [, int timestamp]))
+http://us2.php.net/manual/en/function.time.php                (time)
+http://www.faqs.org/rfcs/rfc2822.html                         (» RFC 2822)
+
+Slide 3.8
+http://us.php.net/manual/en/control-structures.break.php      (break)
+http://us.php.net/manual/en/function.strtoupper.php           (strtoupper)
+
+Slide 3.11
+http://us2.php.net/manual/en/language.types.boolean.php       (boolean type)
+https://www.w3schools.com/php/func_math_rand.asp              (rand(min,max))
+http://us2.php.net/break                                      (break)
+
+Slide 3.12
+https://www.w3schools.com/php/func_string_explode.asp         (explode(separator,string))
+https://www.w3schools.com/php/func_misc_sleep.asp             (sleep(seconds))
+https://www.w3schools.com/php/func_date_date.asp              (date(format,timestamp))
+
+Slide 3.13
+http://us2.php.net/manual/en/function.array.php               (array([mixed $...]))
+
+Slide 3.14
+https://www.w3schools.com/php/php_ref_array.asp               (Array functions)
+https://www.w3schools.com/php/php_ref_calendar.asp            (Calendar functions)
+https://www.w3schools.com/php/php_ref_date.asp                (Date functions)
+https://www.w3schools.com/php/php_ref_directory.asp           (Directory functions)
+https://www.w3schools.com/php/php_ref_error.asp               (Error functions)
+https://www.w3schools.com/php/php_ref_filesystem.asp          (Filesystem functions)
+https://www.w3schools.com/php/php_ref_filter.asp              (Filter functions)
+https://www.w3schools.com/php/php_ref_ftp.asp                 (FTP functions)
+https://www.w3schools.com/php/php_ref_http.asp                (HTTP functions)
+https://www.w3schools.com/php/php_ref_libxml.asp              (LibXML functions)
+https://www.w3schools.com/php/php_ref_mail.asp                (Mail functions)
+https://www.w3schools.com/php/php_ref_math.asp                (Math functions)
+https://www.w3schools.com/php/php_ref_misc.asp                (Misc functions)
+https://www.w3schools.com/php/php_ref_mysql.asp               (MySQL functions)
+https://www.w3schools.com/php/php_ref_mysqli.asp
+https://www.w3schools.com/php/php_ref_simplexml.asp           (SimpleXML functions)
+https://www.w3schools.com/php/php_ref_string.asp              (String functions)
+https://www.w3schools.com/php/php_ref_xml.asp                 (XML Parser functions)
+https://www.w3schools.com/php/php_ref_zip.asp                 (Zip functions)
+
+http://php.net/manual/en/funcref.php                          (Function reference)   
+https://www.w3schools.com/php/func_string_strtok.asp          (strtok(string,split)) 
+https://www.w3schools.com/php/func_string_stripos.asp         (stripos(string,find))  
+http://php.net/manual/en/language.types.boolean.php           (Boolean)   
+http://php.net/manual/en/function.is-numeric.php              (is_numeric(variable)) 
+
+Slide 3.15
+http://php.net/manual/en/function.return.php                  (return)  
+https://www.w3schools.com/php/func_string_strtok.asp          (strtok(string,split)) 
+ 

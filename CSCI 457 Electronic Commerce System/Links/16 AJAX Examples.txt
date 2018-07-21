@@ -1,0 +1,38 @@
+Slide 16.1
+http://wenchen.cs.und.edu/course/457/16/showHint.txt                          (showHint.js)
+http://wenchen.cs.und.edu/course/457/16/getHint.txt                           (getHint.php)
+https://www.sitepoint.com/html-css/html/                                      (onKeyup)
+http://wenchen.cs.und.edu/course/457/16/showHint.txt                          (showHint)
+http://www.w3schools.com/tags/tag_span.asp                                    (span)
+
+Slide 16.2
+https://www.w3schools.com/XML/xml_http.asp                                    (XMLHttpRequest)
+
+
+
+Slide 16.4
+http://wenchen.cs.und.edu/course/457/16/showBook.txt                          (ShowBook)
+http://www.w3schools.com/jsref/event_onchange.asp                             (onChange)
+
+Slide 16.5
+https://www.w3schools.com/XML/xml_http.asp                                    (XMLHttpRequest)
+
+Slide 16.6
+http://wenchen.cs.und.edu/course/457/16/getBook.txt                           (getBook.php)
+
+
+
+Slide 16.7
+http://wenchen.cs.und.edu/course/457/16/showCourse.txt                        (showCourse.js)
+http://wenchen.cs.und.edu/course/457/16/courseList.xml                        (courseList.xml)
+http://wenchen.cs.und.edu/course/457/16/getCourse.txt                         (getCourse.php)
+http://www.w3schools.com/jsref/event_onchange.asp                             (onChange)
+
+
+Slide 16.8
+https://www.w3schools.com/XML/xml_http.asp                                    (XMLHttpRequest)
+
+
+
+
+

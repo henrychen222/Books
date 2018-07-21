@@ -1,0 +1,94 @@
+Slide 12.1
+https://foursquare.com/                                               (Foursquare)
+https://www.paypal.com/us/home                                        (PayPal)
+https://cayan.com/                                                    (Cayan)
+
+Slide 12.4
+https://www.w3schools.com/xhtml/default.asp                           (XHTML)
+https://www.w3schools.com/css/default.asp                             (CSS)
+https://www.w3schools.com/htmldom/default.asp                         (Document Object Model)
+https://www.w3schools.com/xml/default.asp                             (XML)
+https://www.w3schools.com/xsl/default.asp                             (XSLT)
+https://www.w3schools.com/xml/xml_http.asp                            (XMLHttpRequest)
+https://www.w3schools.com/js/default.asp                              (JavaScript)
+https://www.google.com/webhp?complete=1&hl=en                         (Google Suggest)
+https://www.google.com/maps                                           (Google Maps)
+
+Slide 12.5
+http://www.marketsandmarkets.com/Market-Reports/location-based-service-market-96994431.html   (MarketsandMarkets)
+
+Slide 12.6
+https://foursquare.com/                                               (Foursquare)
+http://www.geonames.org/                                              (GeoNames)
+
+Slide 12.8
+https://www.w3.org/MarkUp/                                            (HTML)
+https://www.w3.org/TR/html4/                                          (HTML 4.01)
+https://www.w3.org/TR/xhtml11/                                        (XHTML (eXtensible HTML))
+https://www.w3.org/TR/html5/                                          (HTML5)
+https://www.w3.org/                                                   (W3C)
+https://whatwg.org/                                                   (WHATWG)
+
+Slide 12.9
+https://www.w3.org/TR/geolocation-API/                                (Geolocation)
+http://www.nena.org/                                                  (National Emergency Number Association)
+
+Slide 12.10
+https://www.w3.org/TR/geolocation-API/                                (Geolocation)
+https://www.w3.org/TR/geolocation-API/#geolocation_interface          (Geolocation)
+https://www.w3.org/TR/geolocation-API/#position_options_interface     (PositionOptions)
+https://www.w3.org/TR/geolocation-API/#get-current-position           (getCurrentPosition)
+https://www.w3.org/TR/geolocation-API/#watch-position                 (watchPosition)
+https://www.w3.org/TR/geolocation-API/#position_interface             (Position)
+https://www.w3.org/TR/geolocation-API/#coordinates_interface          (Coordinates)
+https://www.w3.org/TR/geolocation-API/#position_error_interface       (PositionError)
+http://www.tutorialspoint.com/html5/geolocation_clearwatch.htm        (clearWatch)
+http://www.tutorialspoint.com/html5/geolocation_getcurrentposition.htm(getCurrentPosition)
+http://www.tutorialspoint.com/html5/geolocation_watchposition.htm     (watchPosition)
+
+Slide 12.11
+http://www.tutorialspoint.com/html5/geolocation_getcurrentposition.htm(getCurrentPosition)
+http://www.devguru.com/technologies/javascript/10913                  (onClick)
+https://www.w3.org/TR/2009/WD-html5-20090423/browsers.html#window     (window)
+https://www.w3.org/TR/2009/WD-html5-20090423/browsers.html#navigator  (navigator)
+https://www.w3.org/TR/geolocation-API/#geolocation                    (geolocation)
+https://www.w3.org/TR/DOM-Level-2-Core/core.html#i-Document           (document)
+http://www.tizag.com/javascriptT/javascript-getelementbyid.php        (getElementById)
+http://www.tizag.com/javascriptT/javascript-innerHTML.php             (innerHTML)
+https://www.w3.org/TR/geolocation-API/#position_interface             (position)
+https://www.w3.org/TR/geolocation-API/#coordinates_interface          (coordinates)
+
+Slide 12.12
+http://www.tutorialspoint.com/html5/geolocation_getcurrentposition.htm(getCurrentPosition)
+https://www.w3.org/TR/geolocation-API/#position-error                 (positionError)
+
+Slide 12.13
+https://developers.google.com/maps/documentation/static-maps/#quick_example (Google Maps Image APIs)
+
+Slide 12.14
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new   (new)
+https://developers.google.com/maps/documentation/javascript/reference#LatLng      (LatLng)
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style                (style)
+https://developers.google.com/maps/documentation/javascript/reference#MapOptions  (options)
+https://developers.google.com/maps/documentation/javascript/maptypes#BasicMapTypes (map types)
+
+Slide 12.15
+https://sites.google.com/site/gmapsapi3/controls                                   (control)
+https://www.w3schools.com/googleAPI/ref_map.asp                                    (google.maps.Map)
+https://www.w3schools.com/googleAPI/google_maps_overlays.asp                       (google.maps.Marker)
+https://developers.google.com/maps/documentation/javascript/reference#LatLng       (LatLng)
+https://developers.google.com/maps/documentation/javascript/reference#Map          (Map)    
+
+Slide 12.16
+https://developers.google.com/maps/documentation/                                        (Google Maps)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsService  (DirectionsService)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsRenderer (DirectionsRenderer)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsResult   (DirectionsResult)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsRenderer (setMap)
+https://developers.google.com/maps/documentation/javascript/reference#TravelMode         (TravelMode)
+
+Slide 12.17
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsService  (route)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsResult   (DirectionsResult)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsStatus   (DirectionsStatus)
+https://developers.google.com/maps/documentation/javascript/reference#DirectionsRenderer (directionsDisplay)

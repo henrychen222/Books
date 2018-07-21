@@ -1,0 +1,73 @@
+Slide 2.1
+https://www.w3schools.com/xml/                                   (XML)
+https://www.w3schools.com/xml/xml_dtd_intro.asp                  (DTD)
+https://www.w3schools.com/php/php_xml_simplexml_get.asp          (get node/attribute values)
+https://www.w3schools.com/php/php_ref_simplexml.asp              (PHP SimpleXML)
+
+Slide 2.2
+http://wiki.cs.und.edu/mysql                                     (MySQL Database)
+
+Slide 2.4
+https://www.w3schools.com/html/html_forms.asp                    (FORM)
+
+Slide 2.6
+http://wiki.cs.und.edu/cs_account                                (Aero Account)
+http://wenchen.cs.und.edu/library/html/                          (HTML Help Pages)
+https://www.chiark.greenend.org.uk/~sgtatham/putty/              (PUTTY)
+https://winscp.net/eng/download.php                              (WinSCP)
+http://und.edu/academics/center-for-instructional-and-learning-technologies/tech-support/network-access.cfm (VPN (Virtual Private Network))
+https://undvpn.und.edu/+CSCOE+/logon.html                        (Cisco AnyConnect Secure Mobility Client)
+https://www.lifewire.com/create-directories-linux-mkdir-command-3991847  (mkdir)
+http://wenchen.cs.und.edu/library/html/test.txt                  (~/public_html/test.html)
+https://www.w3schools.com/html/                                  (HTML Tutorial)
+http://www.catcode.com/teachmod/index.html                       (permission)
+http://www.catcode.com/teachmod/index.html                       (chmod)    
+
+Slide 2.7
+http://unixhelp.ed.ac.uk/CGI/man-cgi                             (Unix shell command manual pages)
+http://wenchen.cs.und.edu/course/doc/unix.pdf                    (Unix command line cheat sheet)
+https://www.lifewire.com/uses-of-linux-cat-command-4011235       (cat)
+https://www.lifewire.com/uses-of-command-cd-2201063              (cd)
+https://www.lifewire.com/how-to-administer-groups-with-gpasswd-4066486 (chmod)   
+https://www.lifewire.com/copy-files-using-linux-cp-command-4022366 (cp)
+https://www.lifewire.com/display-date-time-using-linux-command-line-4032698 (date)  
+http://wenchen.cs.und.edu/course/doc/emacs.pdf                    (emacs)
+https://www.lifewire.com/linux-grep-command-3571842               (grep)
+https://www.lifewire.com/uses-of-linux-ls-command-4054227         (ls)   
+https://www.lifewire.com/man-linux-command-4095406                (man)
+https://www.lifewire.com/create-directories-linux-mkdir-command-3991847 (mkdir)  
+https://www.lifewire.com/what-to-know-more-command-4051953        (more/pages)  
+https://www.lifewire.com/move-files-with-linux-mv-command-2201103 (mv)  
+https://www.lifewire.com/find-out-which-directory-pwd-command-4022996 (pwd)  
+https://www.lifewire.com/delete-files-using-linux-rm-command-4023999 (rm/rmdir)  
+http://wenchen.cs.und.edu/course/doc/vi.pdf                          (vi) 
+
+Slide 2.8
+http://www.gnu.org/software/emacs/                                 (Emacs)
+https://en.wikipedia.org/wiki/Vi                                   (Vi)
+
+Slide 2.9
+http://wiki.cs.und.edu/aero_account                                (Aero Account)
+http://wenchen.cs.und.edu/library/php/                             (PHP Help Pages)
+http://www.catcode.com/teachmod/index.html                         (chmod)
+
+Slide 2.11
+https://search.yahoo.com/                                          (Yahoo)
+https://search.yahoo.com/search?p=PHP+MySQL&ei=UTF-8
+
+Slide 2.12
+https://search.yahoo.com/search?p=PHP+MySQL&ei=UTF-8                MySQL database
+
+Slide 2.13
+http://wenchen.cs.und.edu/library/mysql/                            (MySQL Help Pages)
+http://wiki.cs.und.edu/mysql                                        (MySQL database)
+https://www.mysql.com/products/workbench/                           (MySQL Workbench)
+https://dev.mysql.com/downloads/workbench/                          (Download MySQL Workbench)
+https://downloads.mysql.com/archives/workbench/                     (MySQL Workbench 5.2.44)
+http://wenchen.cs.und.edu/library/workbench/use.html                (Using MySQL Workbench)
+http://wenchen.cs.und.edu/course/doc/emacs.pdf                     (Emacs reference card)
+
+Slide 2.14
+http://wenchen.cs.und.edu/library/workbench/                       (MySQL Workbench Help Pages)
+https://dev.mysql.com/downloads/workbench/                         (MySQL Workbench)
+https://downloads.mysql.com/archives/workbench/                    (MySQL Workbench 5.2.44)

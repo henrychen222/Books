@@ -1,0 +1,31 @@
+Slide 5.2
+https://www.mysql.com/                                     (MySQL AB)
+https://www.oracle.com/index.html                          (Oracle Corporation)
+
+Slide 5.5
+https://www.mysql.com/products/workbench/                  (MySQL Workbench)
+
+Slide 5.7
+https://www.ansi.org/                                      (ANSI)
+https://www.w3schools.com/SQl/default.asp                  (W3Schools)
+http://northwinddatabase.codeplex.com/                     (Northwind)
+
+Slide 5.10
+https://dev.mysql.com/doc/refman/5.7/en/create-table.html  (CREATE TABLE)
+https://dev.mysql.com/doc/refman/5.7/en/insert.html        (INSERT INTO)
+https://www.w3schools.com/sql/sql_datatypes.asp            (data types)
+
+Slide 5.11
+https://dev.mysql.com/doc/refman/5.7/en/insert.html        (INSERT INTO)
+
+Slide 5.12
+https://www.w3schools.com/sql/sql_null_values.asp          (NULL)
+
+Slide 5.13
+https://dev.mysql.com/doc/refman/5.7/en/select.html        (SELECT)
+
+Slide 5.16
+https://dev.mysql.com/doc/refman/5.7/en/update.html        (UPDATE)
+
+Slide 5.17
+https://dev.mysql.com/doc/refman/5.7/en/delete.html        (DELETE)

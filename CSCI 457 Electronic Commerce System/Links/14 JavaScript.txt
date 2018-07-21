@@ -1,0 +1,127 @@
+Slide 14.1
+https://www.java.com/en/                                                         (Java)
+https://www.mozilla.org/en-US/                                                   (Mozilla Foundation)
+https://www.aol.com//                                                            (Netscape)
+https://msdn.microsoft.com/en-us/library/hbxc2t98.aspx                           (JScript)
+
+Slide 14.2
+http://www.ecma-international.org/                                                (ECMA)
+https://www.iso.org/standard/33835.html                                           (ISO/IEC 16262)
+
+Slide 14.3
+https://www.w3schools.com/tags/tag_script.asp                                     (script)
+https://www.thoughtco.com/getting-rid-of-document-write-2037547                   (write)
+http://www.comptechdoc.org/independent/web/cgi/javamanual/javadocument.html       (document)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date (Date)
+https://www.w3schools.com/jsref/met_doc_getelementbyid.asp                        (getElementById)                
+https://www.w3schools.com/jsref/dom_obj_document.asp                              (document)
+http://www.tizag.com/javascriptT/javascript-innerHTML.php                         (innerHTML)
+
+Slide 14.4
+http://www.javascriptkit.com/jsref/navigator.shtml                                (navigator)
+
+Slide 14.5
+http://www.javascriptkit.com/jsref/location.shtml                                 (location)
+http://www.comptechdoc.org/independent/web/cgi/javamanual/javawindow.html         (window)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators (+)
+
+Slide 14.10
+http://www.comptechdoc.org/independent/web/cgi/javamanual/javawindow.html         (window)
+
+Slide 14.11
+http://www.tizag.com/javascriptT/javascriptif.php                                 (if)
+https://www.w3schools.com/jsref/jsref_getMinutes.asp                              (getMinutes)
+http://www.tizag.com/javascriptT/javascriptdate.php                               (Date)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new   (new)
+
+Slide 14.12
+http://help.dottoro.com/ljqepqhd.php#switch                                       (switch)
+https://www.w3schools.com/js/js_break.asp                                         (break)
+http://www.comptechdoc.org/independent/web/cgi/javamanual/javadate.html           (Date)
+
+Slide 14.13
+http://www.tizag.com/javascriptT/javascriptalert.php                              (alert)
+http://www.tizag.com/javascriptT/javascriptconfirm.php                            (confirm)
+http://www.tizag.com/javascriptT/javascriptprompt.php                             (prompt)
+
+Slide 14.14
+http://www.tizag.com/javascriptT/javascriptfunction.php                           (function)
+https://www.w3schools.com/jsref/jsref_obj_string.asp                              (String)
+https://www.w3schools.com/jsref/jsref_indexof.asp                                 (indexOf(value [,from]))
+https://www.w3schools.com/jsref/jsref_charat.asp                                  (charAt)
+
+Slide 14.15
+http://www.tizag.com/javascriptT/javascriptfor.php                                (for)
+http://www.tizag.com/javascriptT/javascript-string-length.php                     (length)
+https://www.w3schools.com/jsref/jsref_obj_string.asp                              (String)
+
+Slide 14.16
+http://www.tizag.com/javascriptT/javascriptwhile.php                              (while)
+https://www.w3schools.com/js/js_break.asp                                         (break)
+http://www.devguru.com/technologies/ecmascript/quickref/do...while.html           (do ... while)
+https://www.w3schools.com/js/js_break.asp                                         (continue)
+
+Slide 14.17
+https://www.w3schools.com/jsref/jsref_obj_array.asp                               (Array)
+https://www.w3schools.com/jsref/jsref_length_array.asp                            (length)
+
+Slide 14.18
+http://help.dottoro.com/ljxraqdn.php                                              (onabort)
+http://help.dottoro.com/ljjhfrjd.php                                              (onblur)
+http://help.dottoro.com/ljoiurdq.php                                              (onchange)
+http://help.dottoro.com/ljxevnps.php                                              (onclick)
+http://help.dottoro.com/ljohcbno.php                                              (ondblclick)
+http://help.dottoro.com/ljqhdvbn.php                                              (onerror)
+http://help.dottoro.com/ljlmvqok.php                                              (onfocus)
+http://help.dottoro.com/ljlkwans.php                                              (onkeydown)
+http://help.dottoro.com/ljlwfxum.php                                              (onkeypress)
+http://help.dottoro.com/ljaffqqe.php                                              (onkeyup)
+http://help.dottoro.com/ljawbmqm.php                                              (onload)
+http://help.dottoro.com/ljwcseaq.php                                              (onmousedown)
+http://help.dottoro.com/ljlrboji.php                                              (onmousemove)
+http://help.dottoro.com/ljtqkajb.php                                              (onmouseout)
+http://help.dottoro.com/ljudwitu.php                                              (onmouseover)
+http://help.dottoro.com/ljsjcrav.php                                              (onmouseup)
+http://help.dottoro.com/ljnhuwio.php                                              (onreset)
+http://help.dottoro.com/ljorlllt.php                                              (onresize)
+http://help.dottoro.com/ljmwkbaj.php                                              (onselect)
+http://help.dottoro.com/ljppxrti.php                                              (onsubmit)
+http://help.dottoro.com/ljflhicd.php                                              (onunload)
+
+Slide 14.19
+http://help.dottoro.com/ljlmvqok.php                                              (onFocus)
+http://help.dottoro.com/ljjhfrjd.php                                              (onblur)
+http://help.dottoro.com/ljoiurdq.php                                              (onChange)
+https://www.quirksmode.org/js/this.html                                           (this)
+http://help.dottoro.com/ljrkpkbi.php                                              (getElementById)
+http://help.dottoro.com/ljwxewvs.php                                              (document)
+https://www.w3schools.com/jsref/jsref_tolowercase.asp                             (toLowerCase)
+https://www.w3schools.com/jsref/jsref_obj_string.asp                              (string)
+
+Slide 14.20
+http://help.dottoro.com/ljawbmqm.php                                              (onLoad)
+http://help.dottoro.com/ljflhicd.php                                              (onUnload)
+http://help.dottoro.com/ljudwitu.php                                              (onMouseOver)
+http://help.dottoro.com/ljtqkajb.php                                              (onMouseOut)
+
+Slide 14.21
+http://help.dottoro.com/ljppxrti.php                                              (onSubmit)
+
+Slide 14.22
+http://help.dottoro.com/ljqhdvbn.php                                              (onerror)
+http://help.dottoro.com/ljqepqhd.php#trycatch                                     (try...catch)
+http://help.dottoro.com/ljxevnps.php                                              (onClick)
+
+Slide 14.23
+http://help.dottoro.com/ljqepqhd.php#throw                                        (throw)
+https://www.w3schools.com/jsref/jsref_isNaN.asp                                   (isNaN)
+http://www.tizag.com/javascriptT/javascript-string-split.php                      (split([separator][, limit]))
+https://www.w3schools.com/jsref/jsref_obj_string.asp                              (String)
+
+Slide 14.26
+https://www.quirksmode.org/js/this.html                                           (this)
+http://help.dottoro.com/ljufnnvc.php                                              (Object)
+                                                                                  (new)
+https://www.w3schools.com/jsref/jsref_random.asp                                  (random)
+https://www.w3schools.com/js/js_obj_math.asp                                      (Math)
+https://www.w3schools.com/jsref/jsref_obj_string.asp                              (String)

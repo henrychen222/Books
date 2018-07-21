@@ -1,0 +1,89 @@
+Slide 13.1
+http://wenchen.cs.und.edu/course/457/13/note.xml                            (example)
+
+Slide 13.2
+https://www.w3.org/TR/xml/                                                  (Recommendation)
+
+Slide 13.3
+http://wenchen.cs.und.edu/course/457/13/note.txt                            (note.xml)
+
+Slide 13.4
+http://php.net/manual/en/class.domdocument.php                              (DOMDocument)
+http://wenchen.cs.und.edu/course/457/13/note.txt                            (note.xml)
+http://www.php.net/manual/en/domdocument.load.php                           (load(filename))
+http://php.net/manual/en/domdocument.savexml.php                            (saveXML)
+http://www.php.net/manual/en/class.domdocument.php#domdocument.props.documentelement (documentElement)
+https://www.w3schools.com/dom/dom_nodes_access.asp                          (childNodes)
+https://www.w3schools.com/dom/dom_nodes_access.asp                          (nodeName)
+https://www.w3schools.com/dom/dom_nodes_access.asp                          (nodeValue)  
+
+Slide 13.5
+https://www.w3schools.com/php/php_ref_simplexml.asp                         (SimpleXML) 
+http://wenchen.cs.und.edu/course/457/13/catalog.txt                         (catalog.xml) 
+https://www.w3schools.com/php/func_simplexml_load_file.asp                  (simplexml_load_file)  
+https://www.w3schools.com/php/func_simplexml_getname.asp                    (getName)   
+https://www.w3schools.com/php/func_simplexml_children.asp                   (children)   
+
+Slide 13.6
+https://www.w3.org/                                                         (W3C (World Wide Web Consortium))
+https://www.w3.org/TR/DOM-Level-2-Core/core.html                            (Core DOM)
+http://www.devguru.com/Technologies/xmldom/QuickRef/xmldom_intro.html       (XML DOM) 
+https://www.w3.org/TR/DOM-Level-2-HTML/html.html                            (HTML DOM) 
+
+Slide 13.7
+https://www.w3.org/DOM/                                                     (DOM specification)
+https://www.w3.org/TR/DOM-Level-2-Core/core.html                            (Core DOM)
+https://www.w3.org/TR/DOM-Level-2-Core/core.html#i-Document                 (Document)
+  
+Slide 13.8
+http://www.tizag.com/javascriptT/javascript-innerHTML.php                   (innerHTML)
+
+Slide 13.11
+http://www.tizag.com/javascriptT/javascript-innerHTML.php                   (innerHTML)
+http://reference.sitepoint.com/javascript/Node/nodeName                     (nodeName)
+http://reference.sitepoint.com/javascript/Node/nodeValue                    (nodeValue)
+http://reference.sitepoint.com/javascript/Node/parentNode                   (parentNode)
+https://www.sitepoint.com/web-foundations/childnodes-w3c-dom-core-property/ (childNodes)
+http://reference.sitepoint.com/javascript/Node/attributes                   (attributes)
+http://reference.sitepoint.com/javascript/Document/getElementById           (getElementById(id))
+https://www.sitepoint.com/web-foundations/getelementsbytagname-w3c-dom-core-method/ (getElementsByTagName(name))
+http://reference.sitepoint.com/javascript/Node/appendChild                  (appendChild(node))
+http://reference.sitepoint.com/javascript/Node/removeChild                  (removeChild(node))
+
+Slide 13.12
+http://www.tizag.com/javascriptT/javascript-innerHTML.php                   (innerHTML)
+https://www.sitepoint.com/web-foundations/childnodes-w3c-dom-core-property/ (childNodes)
+http://reference.sitepoint.com/javascript/Node/nodeValues                   (nodeValue)
+http://www.tizag.com/javascriptT/javascript-getelementbyid.php              (getElementById)
+
+Slide 13.13
+http://reference.sitepoint.com/javascript/Document/getElementById           (getElementById)
+https://www.sitepoint.com/web-foundations/getelementsbytagname-w3c-dom-core-method/ (getElementsByTagName)
+http://reference.sitepoint.com/javascript/Document/getElementById           (getElementById)
+https://www.sitepoint.com/web-foundations/getattribute-w3c-dom-core-method-2/ (getAttribute)
+http://reference.sitepoint.com/javascript/Element                             (Element)
+https://www.sitepoint.com/web-foundations/getelementsbytagname-w3c-dom-core-method/  (getElementsByTagName)
+http://reference.sitepoint.com/javascript/NodeList                             (NodeList)
+http://reference.sitepoint.com/javascript/NodeList/length                      (length)
+
+Slide 13.14
+https://www.sitepoint.com/web-foundations/getelementsbytagname-w3c-dom-core-method/   (getElementsByTagName)
+
+Slide 13.15
+http://reference.sitepoint.com/javascript/Node/parentNode                      (parentNode)
+http://reference.sitepoint.com/javascript/Node/firstChild                      (firstChild)
+http://reference.sitepoint.com/javascript/Node/lastChild                       (lastChild)
+http://reference.sitepoint.com/javascript/Document                             (Document)
+http://reference.sitepoint.com/javascript/Document/documentElement             (documentElement)
+https://developer.mozilla.org/en-US/docs/Web/API/Document/body                 (body)
+
+Slide 13.16
+http://reference.sitepoint.com/javascript/Node/nodeName                        (nodeName)
+http://reference.sitepoint.com/javascript/Node/nodeValue                       (nodeValue)   
+http://reference.sitepoint.com/javascript/Node/nodeType                        (nodeType)  
+
+Slide 13.17
+http://reference.sitepoint.com/javascript/Node/nodeType                        (nodeType) 
+
+Slide 13.18
+http://www.tizag.com/javascriptT/javascript-innerHTML.php                      (innerHTML)

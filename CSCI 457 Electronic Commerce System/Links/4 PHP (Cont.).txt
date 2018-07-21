@@ -1,0 +1,63 @@
+Slide 4.1
+https://www.w3schools.com/php/func_string_strtolower.asp                        (strtolower(string))
+http://us2.php.net/manual/en/function.print-r.php                               (print_r(mixed $expression))
+
+Slide 4.2
+http://us.php.net/manual/en/reserved.variables.server.php                       ($_SERVER)
+
+Slide 4.6
+http://us2.php.net/manual/en/function.include.php                               (include)
+http://us2.php.net/manual/en/function.require.php                               (require)
+
+Slide 4.7
+https://www.w3schools.com/php/func_filesystem_fopen.asp                         (fopen(filename,mode))
+https://www.w3schools.com/php/func_filesystem_fclose.asp                        (fclose(file))
+https://www.w3schools.com/php/func_filesystem_feof.asp                          (feof(file))
+https://www.w3schools.com/php/func_filesystem_fgets.asp                         (fgets(file,length))
+https://www.w3schools.com/php/func_filesystem_fgetc.asp                         (fgetc(file))
+https://www.w3schools.com/php/func_http_header.asp                              (header)
+https://www.w3schools.com/php/func_misc_exit.asp                                (exit)
+https://www.w3schools.com/php/func_misc_die.asp                                 (die)
+
+Slide 4.9
+https://www.w3.org/TR/html4/interact/forms.html#adef-enctype                    (enctype)
+https://www.w3.org/TR/html4/types.html#type-content-type                        (content-type)
+http://www.iana.org/assignments/media-types/media-types.xhtml                   (MIME)
+https://www.w3.org/TR/html4/interact/forms.html#adef-type-INPUT                 (type="file")
+http://us.php.net/manual/en/function.chmod.php                                  (chmod(filename,mode))
+https://www.w3schools.com/php/func_filesystem_file_exists.asp                   (file_exists(path))
+https://www.w3schools.com/php/func_filesystem_move_uploaded_file.asp            (move_uploaded_file(file,newloc))
+
+Slide 4.10
+http://us.php.net/manual/en/reserved.variables.files.php                        ($_FILES)
+
+Slide 4.11
+http://us3.php.net/manual/en/function.setcookie.php                             (setcookie)
+https://www.w3schools.com/php/func_date_time.asp                                (time)
+
+Slide 4.12
+http://us3.php.net/manual/en/reserved.variables.cookies.php                     ($_COOKIE)
+http://us.php.net/manual/en/function.print-r.php                                (print_r(expression))
+http://us.php.net/manual/en/function.isset.php                                  (isset(variable))
+
+Slide 4.13
+http://us3.php.net/manual/en/function.session-start.php                         (session_start)
+
+Slide 4.14
+http://us2.php.net/manual/en/function.unset.php                                 (unset)
+http://us3.php.net/manual/en/function.session-destroy.php                       (session_destroy)
+
+Slide 4.15
+https://www.w3schools.com/php/func_misc_die.asp                                 (die(message))
+https://www.w3schools.com/php/func_filesystem_file_exists.asp                   (file_exists(path))
+
+Slide 4.16
+https://www.w3schools.com/php/func_string_strncmp.asp                           (strncmp)
+https://www.w3schools.com/php/func_http_header.asp                              (header)
+http://us.php.net/manual/en/function.trigger-error.php                          (trigger_error)
+https://www.w3schools.com/php/func_error_set_error_handler.asp                  (set_error_handler)
+
+Slide 4.18
+http://us.php.net/manual/en/reserved.variables.server.php                       ($_SERVER)
+http://us.php.net/manual/es/exception.getmessage.php                            ($e->getMessage)
+https://www.w3schools.com/php/func_string_strstr.asp                            (strstr(string,search))

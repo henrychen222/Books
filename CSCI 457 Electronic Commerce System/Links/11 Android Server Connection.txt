@@ -1,0 +1,60 @@
+Slide 11.1
+https://developer.android.com/reference/java/net/URLConnection.html                      (URLConnection)
+https://developer.android.com/reference/org/apache/http/client/HttpClient.html           (HttpClient)
+http://www.tutorialspoint.com/android/android_php_mysql.htm                              (Android - PHP/MySQL Tutorial)
+
+Slide 11.3
+https://gradle.org/                                                                       (Gradle)
+http://ant.apache.org/                                                                    (Apache Ant)
+http://maven.apache.org/                                                                  (Apache Maven)
+http://www.groovy-lang.org/                                                               (Groovy)
+https://developer.android.com/reference/org/apache/http/client/HttpClient.html           (HttpClient)
+
+Slide 11.4
+https://developer.android.com/reference/android/widget/TextView.html                      (TextView)
+https://developer.android.com/reference/android/widget/EditText.html                      (EditText)
+https://developer.android.com/reference/android/widget/Button.html                        (Button)
+
+Slide 11.6
+https://developer.android.com/reference/java/net/HttpURLConnection.html                   (HttpURLConnection)
+https://developer.android.com/reference/org/apache/http/client/HttpClient.html            (HttpClient)
+https://developer.android.com/reference/android/app/Activity.html#onCreate%28android.os.Bundle%29  (onCreate)
+
+
+Slide 11.7
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...) (doInBackground)
+https://developer.android.com/reference/android/os/AsyncTask.html#onPostExecute(Result)     (onPostExecute)
+
+Slide 11.8
+https://developer.android.com/reference/android/package-summary.html                        (android)
+https://developer.android.com/reference/android/os/package-summary.html                     (android.os)
+https://developer.android.com/reference/android/os/AsyncTask.html                           (AsyncTask)
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...) (Params)
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...) (Progress)
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...) (Result)
+https://developer.android.com/reference/android/os/AsyncTask.html#onPreExecute()            (onPreExecute)
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...) (doInBackground)
+https://developer.android.com/reference/android/os/AsyncTask.html#onProgressUpdate(Progress...) (onProgressUpdate)
+https://developer.android.com/reference/android/os/AsyncTask.html#onPostExecute(Result)         (onPostExecute)
+https://developer.android.com/reference/java/lang/package-summary.html                          (java)
+https://developer.android.com/reference/android/net/package-summary.html                        (net)
+https://developer.android.com/reference/java/net/URL.html                                       (URL)
+https://developer.android.com/reference/java/net/URLConnection.html                             (URLConnection)
+https://developer.android.com/reference/java/net/URLEncoder.html                                (URLEncoder)
+https://developer.android.com/reference/java/io/BufferedReader.html                             (BufferedReader)
+
+Slide 11.9
+https://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...)  (doInBackground)
+https://developer.android.com/reference/android/os/AsyncTask.html#onPreExecute()             (onPreExecute)
+https://developer.android.com/reference/android/os/AsyncTask.html#execute(Params...)         (execute)
+https://developer.android.com/reference/java/net/URLEncoder.html                             (URLEncoder)
+https://developer.android.com/reference/java/net/URLEncoder.html#encode(java.lang.String,%20java.lang.String) (encode)
+https://en.wikipedia.org/wiki/Percent-encoding#The_application.2Fx-www-form-urlencoded_type   (application/x-www-form-urlencoded)
+https://en.wikipedia.org/wiki/UTF-8                                                           (UTF-8)
+https://developer.android.com/reference/java/net/URLConnection.html                           (URLConnection)
+https://developer.android.com/reference/java/net/URL.html#openConnection()                    (openConnection)
+https://developer.android.com/reference/java/net/URLConnection.html#setDoOutput(boolean)      (setDoOutput)
+https://developer.android.com/reference/java/net/URLConnection.html#doOutput                  (doOutput)
+https://developer.android.com/reference/java/net/URLConnection.html#getOutputStream()         (getOutputStream)
+https://developer.android.com/reference/java/io/OutputStreamWriter.html#flush()               (flush)
+https://developer.android.com/reference/android/os/AsyncTask.html#onPostExecute(Result)       (onPostExecute)

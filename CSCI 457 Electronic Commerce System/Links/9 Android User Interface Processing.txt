@@ -1,0 +1,120 @@
+Slide 9.1 
+https://developer.android.com/reference/android/view/View.html                                       (View)
+https://developer.android.com/reference/android/view/ViewGroup.html                                  (ViewGroup)
+
+Slide 9.2
+https://developer.android.com/reference/android/widget/TextView.html                                 (TextView)
+https://developer.android.com/reference/android/widget/LinearLayout.html                             (LinearLayout)
+https://developer.android.com/guide/topics/ui/declaring-layout.html                                  (XML Layouts)
+https://developer.android.com/reference/android/view/View.html                                       (View)
+https://developer.android.com/reference/android/view/ViewGroup.html                                  (ViewGroup)
+https://developer.android.com/training/appbar/index.html                                             (Adding the App Bar)
+https://developer.android.com/guide/topics/ui/dialogs.html                                           (Dialogs)
+https://developer.android.com/guide/topics/ui/notifiers/notifications.html                           (Notification)
+
+Slide 9.6
+https://developer.android.com/reference/android/widget/TextView.html                                 (TextView)
+https://developer.android.com/reference/android/package-summary.html                                 (android)
+https://developer.android.com/reference/android/text/package-summary.html                            (android.text)
+https://developer.android.com/reference/android/text/SpannableStringBuilder.html                     (SpannableStringBuilder)
+https://developer.android.com/reference/android/text/Spanned.html                                    (Spanned)
+https://developer.android.com/reference/android/text/style/package-summary.html                      (android.text.style)
+https://developer.android.com/reference/android/text/style/URLSpan.html                              (URLSpan)
+https://developer.android.com/reference/android/text/SpannableStringBuilder.html#append%28char%29    (append)
+https://developer.android.com/reference/android/widget/TextView.html#getText%28%29                   (getText)   
+https://developer.android.com/reference/android/text/Spanned.html                                    (flag)  
+https://developer.android.com/reference/android/text/SpannableStringBuilder.html#setSpan%28java.lang.Object,%20int,%20int,%20int%29   (setSpan)
+https://developer.android.com/reference/android/text/SpannableStringBuilder.html#length%28%29        (length)
+https://developer.android.com/reference/android/text/Spanned.html#SPAN_EXCLUSIVE_EXCLUSIVE           (SPAN_EXCLUSIVE_EXCLUSIVE)
+https://developer.android.com/reference/android/widget/TextView.html#setText%28java.lang.CharSequence,%20android.widget.TextView.BufferType%29  (setText)
+https://developer.android.com/reference/android/widget/TextView.BufferType.html                      (BufferType)
+
+Slide 9.7
+https://developer.android.com/guide/topics/ui/controls/radiobutton.html                              (Radio Buttons)
+https://developer.android.com/reference/android/widget/RadioGroup.html                               (Radio Group)
+https://developer.android.com/reference/android/R.attr.html#onClick                                  (onClick)
+
+Slide 9.8
+https://developer.android.com/reference/android/widget/RadioGroup.html                               (Radio Group)
+https://developer.android.com/guide/topics/ui/controls/radiobutton.html                              (Radio Buttons)
+https://developer.android.com/reference/android/widget/CheckBox.html                                 (CheckBox)
+
+Slide 9.9
+https://developer.android.com/reference/android/package-summary.html                                 (android)
+https://developer.android.com/reference/android/widget/package-summary.html                          (widget)
+https://developer.android.com/guide/topics/ui/controls/radiobutton.html                              (Radio Buttons)
+https://developer.android.com/reference/android/widget/RadioGroup.html                               (Radio Group)
+https://developer.android.com/reference/android/widget/Toast.html                                    (Toast)
+https://developer.android.com/reference/android/widget/RadioGroup.html#getCheckedRadioButtonId%28%29 (getCheckedRadioButtonId)
+https://developer.android.com/reference/android/widget/Toast.html#makeText%28android.content.Context,%20int,%20int%29  (makeText)
+https://developer.android.com/reference/android/widget/TextView.html#getText%28%29                    (getText)
+https://developer.android.com/reference/android/widget/Toast.html#LENGTH_LONG                         (LENGTH_LONG)
+https://developer.android.com/reference/android/widget/Toast.html#show%28%29                          (show)
+
+Slide 9.10
+https://developer.android.com/guide/topics/ui/controls/checkbox.html                                  (Checkboxes)
+https://developer.android.com/reference/android/widget/CheckBox.html                                  (CheckBox)
+https://developer.android.com/reference/android/R.attr.html#onClick                                   (onClick)
+
+Slide 9.12
+https://developer.android.com/reference/android/widget/CompoundButton.html#isChecked%28%29            (isChecked)
+https://developer.android.com/reference/java/lang/StringBuffer.html                                   (StringBuffer)
+https://developer.android.com/reference/java/lang/StringBuffer.html#append%28char%29                  (append)
+
+Slide 9.13
+http://www.androidhub4you.com/2013/09/android-dynamic-check-box-example-check.html                    (Android Hub 4 You)
+
+Slide 9.14
+https://developer.android.com/reference/android/widget/RelativeLayout.html                            (RelativeLayout)
+https://developer.android.com/reference/android/widget/LinearLayout.html                              (LinearLayout)
+https://developer.android.com/reference/android/widget/TextView.html                                  (TextView)
+https://developer.android.com/reference/android/widget/EditText.html                                  (EditText)
+https://developer.android.com/reference/android/widget/Button.html                                    (Button)
+
+Slide 9.15                    
+https://developer.android.com/reference/java/util/package-summary.html                                (java.util)
+https://developer.android.com/reference/java/util/Iterator.html                                       (Iterator)
+https://developer.android.com/reference/java/util/Collection.html                                     (Collection)
+https://developer.android.com/reference/java/util/LinkedHashMap.html                                  (LinkedHashMap)
+https://developer.android.com/reference/java/util/Map.html                                            (Map)
+https://developer.android.com/reference/java/util/Set.html                                            (Set)
+https://developer.android.com/reference/android/package-summary.html                                  (android)
+https://developer.android.com/reference/android/widget/package-summary.html                           (widget)
+https://developer.android.com/reference/android/widget/LinearLayout.html                              (LinearLayout)
+https://developer.android.com/reference/android/widget/LinearLayout.html#setOrientation(int)          (setOrientation)
+https://developer.android.com/reference/android/widget/LinearLayout.html#setGravity(int)              (setGravity)
+https://developer.android.com/reference/android/graphics/package-summary.html                         (graphics)
+https://developer.android.com/reference/android/graphics/Color.html                                   (Color)
+
+Slide 9.16
+https://developer.android.com/reference/android/widget/CheckBox.html                                  (CheckBox)
+https://developer.android.com/reference/android/content/Context.html#getApplicationContext()          (getApplicationContext)
+https://developer.android.com/reference/android/view/View.html#setId(int)                             (setId)
+https://developer.android.com/reference/java/lang/Integer.html                                        (Integer)
+https://developer.android.com/reference/java/lang/Integer.html#parseInt(java.lang.String)             (parseInt)
+https://developer.android.com/reference/android/widget/TextView.html#getText()                        (getText)
+https://developer.android.com/reference/android/widget/TextView.html#setText(int)                     (setText)
+https://developer.android.com/reference/java/lang/Object.html#toString()                              (toString)
+https://developer.android.com/reference/android/widget/TextView.html#setTextColor(int)                (setTextColor)
+https://developer.android.com/reference/android/graphics/Color.html                                   (Color)
+https://developer.android.com/reference/android/graphics/Color.html#BLACK                             (BLACK)
+https://developer.android.com/reference/android/view/ViewGroup.html#addView(android.view.View)        (addView)
+
+Slide 9.17
+https://en.wikipedia.org/wiki/Final_%28Java%29                                                        (final)
+https://developer.android.com/reference/java/util/LinkedHashMap.html                                  (LinkedHashMap)
+https://developer.android.com/reference/java/util/HashMap.html                                        (HashMap)
+https://developer.android.com/reference/java/util/Map.html                                            (Map)
+https://developer.android.com/reference/java/util/Hashtable.html                                      (HashTable)
+https://developer.android.com/reference/java/util/HashMap.html#put(K,%20V)                            (put)
+https://developer.android.com/reference/java/util/Set.html                                            (Set)
+https://developer.android.com/reference/java/util/HashMap.html#entrySet()                             (entrySet)
+https://developer.android.com/reference/java/util/Iterator.html                                       (Iterator)
+https://developer.android.com/reference/java/util/Set.html#iterator()                                 (iterator)
+https://developer.android.com/reference/java/util/Iterator.html#hasNext()                             (hasNext)
+https://developer.android.com/reference/java/lang/SuppressWarnings.html                               (SuppressWarnings)
+https://developer.android.com/reference/java/util/Map.Entry.html                                      (Entry)
+https://developer.android.com/reference/java/util/Iterator.html#next()                                (next)
+
+
+

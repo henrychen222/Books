@@ -1,0 +1,37 @@
+Slide 7.1
+https://developer.android.com/studio/index.html                         (Android Studio)
+https://developer.android.com/reference/android/widget/EditText.html    (EditText)
+https://en.wikipedia.org/wiki/Longest_common_subsequence_problem        (LCS (Longest Common Subsequence))
+http://people.aero.und.edu/~wenchen/course/513/week13/                  (SQLite)
+https://www.paypal.com/us/home                                          (PayPal)
+https://cayan.com/                                                      (Cayan)
+
+Slide 7.3
+https://developer.android.com/studio/intro/index.html                   (Android Studio)
+https://stackoverflow.com/questions/tagged/android                      (Stack Overflow)
+https://developer.android.com/studio/index.html#top                     (Download Android Studio for Windows)
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html (Download and install the JDK (Java Development Kit))
+https://developer.android.com/studio/intro/update.html                  (Adding SDK Packages)
+http://wenchen.cs.und.edu/library/android/program.html                  (Android Programming)
+
+Slide 7.4
+http://wenchen.cs.und.edu/library/android/install.html                  (Downloading and Installing Android Studio)
+http://www.i-programmer.info/programming/android/5887-android-adventures-getting-started-with-android-studio.html  (Android Adventures–Getting Started with Android Studio 1.0)
+http://startandroid.ru/en/lessons/complete-list.html                    (Google Android Lessons)
+https://stackoverflow.com/questions/tagged/android                      (Stack Overflow)
+
+Slide 7.5
+http://www.openhandsetalliance.com/                                     (Open Handset Alliance)
+
+Slide 7.6
+http://harmony.apache.org/                                              (Apache Harmony)
+https://en.wikipedia.org/wiki/Dalvik_%28software%29                     (Dalvik virtual machine)
+https://www.youtube.com/watch?v=QBGfUs9mQYY                             (video)
+
+Slide 7.7
+https://developer.android.com/studio/command-line/adt.html              (ADT (Android Development Tools))
+https://www.jetbrains.com/                                              (JetBrains)
+https://www.jetbrains.com/idea/                                         (IntelliJ IDEA)
+https://gradle.org/                                                     (Gradle)
+https://developer.android.com/studio/write/lint.html                    (lint)
+https://www.guardsquare.com/en/proguard                                 (ProGuard)
