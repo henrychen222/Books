@@ -1,0 +1,2 @@
+https://www.kernel.org/doc/man-pages/
+http://man7.org/linux/man-pages/dir_section_3.html
