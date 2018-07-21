@@ -1,0 +1,39 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<list>
+<course>
+<number>260</number>
+<title>.NET and Web Programming</title>
+<cr>3</cr>
+<time>10:00am, MWF</time>
+</course>
+<course>
+<number>370</number>
+<title>Computer Architecture</title>
+<cr>4</cr>
+<time>02:00pm, MWF</time>
+</course>
+<course>
+<number>399</number>
+<title>Mobile Commerce Systems</title>
+<cr>3</cr>
+<time>11:00am, TuTh</time>
+</course>
+<course>
+<number>457</number>
+<title>Electronic Commerce Systems</title>
+<cr>3</cr>
+<time>11:00am, MWF</time>
+</course>
+<course>
+<number>513</number>
+<title>Advanced Database Systems</title>
+<cr>3</cr>
+<time>10:00am, MWF</time>
+</course>
+<course>
+<number>515</number>
+<title>Data Engineering and Management</title>
+<cr>3</cr>
+<time>01:00pm, MWF</time>
+</course>
+</list>
